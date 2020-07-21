@@ -1,6 +1,6 @@
 # UX Engineer.
 
-🌈 #DesignSystem maker.
+🌈 Design Systems maker.
 
 💥Things destroyer.
 
