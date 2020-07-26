@@ -1,4 +1,4 @@
-# UX Engineer. <img src="https://github-readme-stats.vercel.app/api?username=equinusocio&show_icons=true" alt="Stats" width="440" align="right">
+# UX Engineer. <img src="https://github-readme-stats.vercel.app/api?username=equinusocio&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
 
 🌈 Design Systems maker.
 
