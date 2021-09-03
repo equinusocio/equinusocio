@@ -7,4 +7,4 @@
 ✍️ Author of [Native Elements](https://native-elements.dev), [XITY](https://github.com/equinusocio/xity-starter) and [Material Theme](https://github.com/material-theme/vsc-material-theme)
 
 📷 Spare time [photographer](https://unsplash.com/@equinusocio) and open source dev
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinusocio&layout=compact" alt="Stats" width="440" align="right"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinusocio&layout=compact&langs_count=3" alt="Stats" width="440" align="right"> 
