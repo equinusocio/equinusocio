@@ -1,4 +1,5 @@
-# UX Engineer. <img src="https://github-readme-stats.vercel.app/api?username=equinusocio&show_icons=true&hide_border=true" alt="Stats" width="440" align="right"> 
+# UX Engineer. 
+<img src="https://metrics.lecoq.io/equinusocio?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FRome" alt="Stats" width="440" align="right">
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -12,4 +13,5 @@
 ✍️ Author of [Native Elements](https://native-elements.dev), [XITY](https://github.com/equinusocio/xity-starter) and [Material Theme](https://github.com/material-theme/vsc-material-theme)
 
 📷 Spare time [photographer](https://unsplash.com/@equinusocio) and open source dev
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinusocio&layout=compact&langs_count=3" alt="Stats" width="440" align="right"> 
+
+
