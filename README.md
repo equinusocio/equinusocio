@@ -12,6 +12,6 @@
 
 ✍️ Author of [Material Theme](https://github.com/material-theme/vsc-material-theme)
 
-📷 Spare time [photographer](https://unsplash.com/@equinusocio) and open source dev
+📷 Hobby [photographer](https://print.astorinomattia.com)
 
 
