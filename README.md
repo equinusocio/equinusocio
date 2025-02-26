@@ -9,7 +9,7 @@
 
 💥Things destroyer.
 
-✍️ Author of [Material Theme](https://github.com/material-theme/vsc-material-theme)
+✍️ Author of [Material Theme](https://github.com/vira-theme/vsc-vira-theme)
 
 📷 Hobby [photographer](https://print.astorinomattia.com)
 
