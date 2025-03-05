@@ -9,7 +9,7 @@
 
 💥Things destroyer.
 
-✍️ Author of [Vira Theme](https://github.com/vira-theme/vira-theme-support)
+✍️ Author of [Vira Theme](https://github.com/vira-themes/vira-theme-support) and old Material Theme
 
 📷 Hobby [photographer](https://print.astorinomattia.com)
 
