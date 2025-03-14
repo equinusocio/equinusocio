@@ -11,6 +11,6 @@
 
 ✍️ Author of [Vira Theme](https://vira.build) and old [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) and [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
 
-📷 Hobby [photographer](https://print.astorinomattia.com)
+📷 Hobby [photographer](https://www.instagram.com/mattia.astorino/)
 
 
