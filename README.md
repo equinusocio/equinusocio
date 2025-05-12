@@ -5,11 +5,11 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-🌈 Design Systems maker.
-
+🌈 Design Systems maker, author of [Wanda DS](https://wanda.wonderflow.ai) and [Tek DS](https://design.lualtek.io)
+ 
 💥Things destroyer.
 
-✍️ Author of [Vira Theme](https://vira.build) and the original [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) / [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
+✍️ Author of [Vira Theme](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) and the original [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) / [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
 
 📷 Hobby [photographer](https://www.instagram.com/mattia.astorino/)
 
