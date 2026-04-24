@@ -13,7 +13,7 @@
  
 💥Things destroyer.
 
-✍️ Author of [Vira Theme](https://marketplace.visualstudio.com/items?itemName=vira.vsc-vira-theme) and the original [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) / [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
+✍️ Author of [Vira Theme](https://vira.build) and the original [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) / [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
 
 📷 Hobby [photographer](https://www.instagram.com/mattia.astorino/)
 
