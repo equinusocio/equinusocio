@@ -2,6 +2,7 @@
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
+![FRAMER](https://img.shields.io/badge/framer-%23000000?style=for-the-badge&logo=framer&logoColor=%2342d2ff)
 ![CSS](https://img.shields.io/badge/css-%23000000?style=for-the-badge&logo=css&logoColor=%2342d2ff)
 ![HTML](https://img.shields.io/badge/html-%23000000?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
