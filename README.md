@@ -10,7 +10,7 @@
 ![Nextjs](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF)
 ![Storybook](https://img.shields.io/badge/storybook-%23000000.svg?style=for-the-badge&logo=storybook&logoColor=%23FF4785)
 
-🌈 Design Systems maker, author of [Wanda DS](https://wanda.wonderflow.ai) and [Tek DS](https://design.lualtek.io)
+🌈 Design Systems maker, author of [ViraUI](https://viraui.dev), [Wanda DS](https://wanda.wonderflow.ai), [Tek DS](https://design.lualtek.io)
  
 💥Things destroyer.
 
